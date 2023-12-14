@@ -1,5 +1,5 @@
 # ejercicio-pin
-Hay que introducir un pin y hay tres oportunidades de que sea incorrecto
+#Hay que introducir un pin y hay tres oportunidades de que sea incorrecto
 
 intentos = 0
 while intentos < 3:
